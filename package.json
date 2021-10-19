@@ -1,11 +1,11 @@
 {
-  "name": "ide-intelephense",
+  "name": "ide-intelephense-forked",
   "main": "./lib/ide-intelephense",
   "version": "0.5.0",
-  "description": "PHP language support powered by Intelephense",
+  "description": "PHP language support powered by Intelephense for Atom IDE",
   "keywords": [],
   "activationCommands": {},
-  "repository": "https://github.com/cdaguerre/ide-intelephense",
+  "repository": "https://github.com/keevan/ide-intelephense",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
