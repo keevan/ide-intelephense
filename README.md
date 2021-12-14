@@ -1,5 +1,7 @@
 # ide-intelephense package
 
+### WARNING: this exists as an experimental fork for testing purposes, please do not install and use this as your daily driver. Please use the main package over at https://github.com/cdaguerre/ide-intelephense
+
 PHP language support for Atom-IDE, powered by the [Intelephense](https://intelephense.com/) PHP Language Server.
 
 ## Supported features

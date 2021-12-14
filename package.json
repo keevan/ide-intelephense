@@ -2,7 +2,7 @@
   "name": "ide-intelephense-forked",
   "main": "./lib/ide-intelephense",
   "version": "0.7.2",
-  "description": "PHP language support powered by Intelephense for Atom IDE",
+  "description": "(experimental) PHP language support powered by Intelephense for Atom IDE",
   "keywords": [],
   "activationCommands": {},
   "repository": "https://github.com/keevan/ide-intelephense",
